@@ -18,7 +18,7 @@ proxy keys, subscription links, server addresses and connection parameters
 selected server, connection status, ping and connection time
 network state to understand whether internet access is available
 notifications to show an active proxy connection
-technical crash and stability data through Firebase
+technical crash and stability data in local app logs
 The app does not request precise geolocation, contacts, photos, SMS, microphone, camera or permission to install third party apps
 
 Data sharing
@@ -26,7 +26,6 @@ We do not sell personal data
 
 The app may use third party services for its operation:
 
-Google Firebase for crash and stability diagnostics
 proxy servers for connection processing
 Android system services for proxy, network and notifications
 Proxy traffic
@@ -48,7 +47,7 @@ protect the service from abuse
 Data storage
 Proxy keys, subscriptions and settings are stored on the device until the user deletes them or removes the app
 
-Firebase diagnostic data is stored according to Google Firebase rules
+Local diagnostic data is stored on the device until the user clears app data or deletes the app
 
 Security
 We use standard Android mechanisms and protected connections where needed for the app to work
@@ -74,7 +73,7 @@ horizonvpn7@gmail.com
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
 
 
 Russian(Русский): 
@@ -84,6 +83,7 @@ Russian(Русский):
 
 Horizon Connect помогает подключаться к прокси серверам и управлять прокси подписками
 
+Разработчик
 Разработчик: Horizon ltd
 
 Почта для связи: 
@@ -96,7 +96,7 @@ Horizon Connect может использовать:
 выбранный сервер, статус подключения, пинг, время подключения
 состояние сети, чтобы понимать есть ли интернет
 уведомления, чтобы показывать активное прокси подключение
-технические данные о сбоях и стабильности через Firebase
+технические данные о сбоях и стабильности в локальных журналах приложения
 Приложение не запрашивает точную геолокацию, контакты, фото, SMS, микрофон, камеру и разрешение на установку сторонних приложений
 
 Передача данных
@@ -104,7 +104,6 @@ Horizon Connect может использовать:
 
 Для работы приложения могут использоваться сторонние сервисы:
 
-Google Firebase для диагностики сбоев и стабильности
 прокси серверы для обработки подключения
 системные сервисы Android для прокси, сети и уведомлений
 Прокси трафик
@@ -126,7 +125,7 @@ Horizon Connect не продает историю сайтов, DNS запро�
 Хранение данных
 Прокси ключи, подписки и настройки хранятся на устройстве, пока пользователь не удалит их сам или не удалит приложение
 
-Диагностические данные Firebase хранятся по правилам Google Firebase
+Локальные диагностические данные хранятся на устройстве, пока пользователь не очистит данные приложения или не удалит приложение
 
 Безопасность
 Мы используем стандартные механизмы Android и защищенные соединения там, где это нужно для работы приложения
@@ -142,11 +141,13 @@ Horizon Connect рассчитан на пользователей 16-17 лет 
 удалить подписки и ключи в приложении
 очистить данные приложения в настройках Android
 удалить приложение
-
-Изменения:
-
+Изменения
 Политика может обновляться
+
 Новая версия будет опубликована на этой странице
+
+Контакты
+horizonvpn7@gmail.com
 
 Контакты
 horizonvpn7@gmail.com
