@@ -1,4 +1,5 @@
 English(Английский): 
+
 Privacy Policy for Horizon Connect
 Date: May 5, 2026
 
@@ -71,7 +72,9 @@ The new version will be published on this page
 Contacts
 horizonvpn7@gmail.com
 
-Russian(Русский): Политика конфиденциальности Horizon Connect
+Russian(Русский): 
+
+Политика конфиденциальности Horizon Connect
 Дата: 5 мая 2026
 
 Horizon Connect помогает подключаться к прокси серверам и управлять прокси подписками
