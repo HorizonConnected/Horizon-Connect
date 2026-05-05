@@ -72,6 +72,11 @@ The new version will be published on this page
 Contacts
 horizonvpn7@gmail.com
 
+
+
+
+
+
 Russian(Русский): 
 
 Политика конфиденциальности Horizon Connect
